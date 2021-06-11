@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# MAniFest
+
+An Anime Convention website built with React and styled-components.
+
+Deployed live at
+
+![](SitePreview.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
