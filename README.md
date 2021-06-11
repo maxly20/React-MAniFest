@@ -2,7 +2,8 @@
 
 An Anime Convention website built with React and styled-components.
 
-Deployed live at
+Deployed live at https://maxly-manifest.netlify.app
+
 
 ![](SitePreview.png)
 
