@@ -4,7 +4,7 @@ const AboutDate = () => {
   return (
     <DivStyles className='aboutDate'>
       <div className='dateInfo'>
-        <span>CONFERENCE DATE</span>
+        <span>CONVENTION DATE</span>
         <h3>COUNT EVERY SECOND UNTIL THE EVENT</h3>
       </div>
       <div className='cardContainer'>
